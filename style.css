@@ -8,3 +8,12 @@ h1{
     font-size: 80px;
     color: salmon;
 }
+h4{
+    display: inline;
+    
+}
+nav{
+    /* border: 1px solid red; */
+    background-color: rgba(155, 156, 134, 0.158);
+    border-radius: 5px;
+}
